@@ -1,0 +1,29 @@
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    coloR: white;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+/* .bodyimg{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+ } */
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: cornsilk;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.oragami{
+    background-color: white;
+    border-radius: 20px;
+    border:  2px solid black;
+    width: 500px;
+}
